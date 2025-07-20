@@ -7,7 +7,7 @@ dist/
 # User data and privacy files
 server/notes/
 server/notes/*
-*.json
+server/notes/*.json
 
 # Logs
 *.log
